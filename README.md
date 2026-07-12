@@ -52,7 +52,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/V-PS191/assets/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/V-PS191/V-PS191/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
   
